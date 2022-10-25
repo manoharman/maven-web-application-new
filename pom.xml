@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Manohar Release Nexus Repository</name>
-	      <url>http://54.244.37.60:9999/repository/realme-repo2/</url>
+	      <url>http://54.149.195.131:9999/repository/realme-repo2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Manohar Snapshot Nexus Repository </name>
-	      <url>http://54.244.37.60:9999/repository/realme-repo/</url>
+	      <url>http://54.149.195.131:9999/repository/realme-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
